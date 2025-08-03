@@ -116,7 +116,7 @@ var config = {
             alignment: 'right',
             hidden: false,
             title: '',
-            image: 'https://i.ibb.co/xK61T7pM/MEF-AAP-027-BAP-2025-08-03-08-44-16.png',
+            image: 'https://i.ibb.co/zqkKWyp/MEF-AAP-027-BAP-2025-08-03-09-37-13.png',
             description: '',
             location: {
                 center: [28.947,41.000],
@@ -239,8 +239,8 @@ var config = {
             image: 'https://i.ibb.co/2YYXWbX2/MEF-AAP-027-BAP-2025-08-03-08-50-11.png',
             description: '',
             location: {
-                center: [28.947,41.000],
-                zoom: 13,
+                center: [29.029,40.962],
+                zoom: 12,
                 pitch: 0,
                 bearing: 0
             },
